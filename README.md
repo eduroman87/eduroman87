@@ -1,4 +1,7 @@
-<img src="./banner.png" alt="Banner" style="width:100%;"/>
+<div align="center">
+  <img src="./banner.png" alt="Banner" style="width:80%;" />
+</div>
+
 
 <h1 align="center">👋 ¡Hola! Soy Eduardo Román Carrero</h1>
 
