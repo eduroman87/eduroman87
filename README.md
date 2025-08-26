@@ -51,7 +51,7 @@ Esto me ha enseñado a ser autodidacta, trabajar con autonomía y mantener siemp
 🔭 Actualmente estoy desarrollando proyectos personales con Java y Kotlin.  
 🌱 Aprendiendo más sobre testing, Spring Boot y herramientas modernas.  
 💬 Pregúntame sobre desarrollo backend o cómo reinventarte en el mundo tech.  
-📫 Estoy en [LinkedIn](www.linkedin.com/in/eduardoromancarrero), ¡conectemos!  
+📫 Estoy en [LinkedIn](https://www.linkedin.com/in/eduardoromancarrero), ¡conectemos! 
 
 
 ---
