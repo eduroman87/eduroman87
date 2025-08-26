@@ -44,8 +44,6 @@ Esto me ha enseñado a ser autodidacta, trabajar con autonomía y mantener siemp
 > *Iré subiendo más proyectos a medida que avanzo. ¡Esto no ha hecho más que empezar!*
 
 
-> *Iré subiendo más proyectos a medida que avanzo. ¡Esto no ha hecho más que empezar!*
-
 
 ---
 
