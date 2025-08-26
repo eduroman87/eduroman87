@@ -36,7 +36,6 @@ Esto me ha enseñado a ser autodidacta, trabajar con autonomía y mantener siemp
 
 ### 📂 Algunos proyectos destacados
 
-### 📂 Algunos proyectos destacados
 
 - 🗓️ [`Tasks for Today`](https://github.com/eduroman87/tasks4today/) — Aplicación Android para **gestión de tareas diarias**, con categorías, prioridades y panel de estadísticas. Desarrollada en **Kotlin**, usando **Firebase Realtime Database** para almacenamiento y **Firebase Authentication** para usuarios. Arquitectura modular basada en **POO** y diseño en **XML + Material Design**.  
 - 🍅 [`PomodoroJC`](https://github.com/eduroman87/pomodoroJC-JetpackCompose-) — Aplicación Android basada en la técnica Pomodoro, desarrollada con **Kotlin**, **Jetpack Compose**, **corrutinas** y arquitectura **MVVM** para practicar retos de desarrollo.
